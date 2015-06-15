@@ -1,1 +1,1 @@
-# module 06 notes
+# Module-06 Notes
